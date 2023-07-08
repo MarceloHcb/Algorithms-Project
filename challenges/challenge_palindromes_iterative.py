@@ -8,5 +8,4 @@ def is_palindrome_iterative(word):
             return False
         low_index += 1
         high_index -= 1
-
     return True
