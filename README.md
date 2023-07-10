@@ -1,10 +1,13 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)"/>
+
+# Neste projeto foram resolvidos problemas e otimizados algoritmos, onde pude desenvolver a  capacidade de implementar soluções para os mais diversos problemas do dia a dia.
+
+Lógica;
+
+Capacidade de interpretação de problemas;
+
+Capacidade de interpretação de um código legado;
+
+Capacidade de otimizar a resolução de problemas e;
+
+Resolver problemas/Otimizar algoritmos sob pressão.
